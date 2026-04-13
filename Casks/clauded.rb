@@ -1,6 +1,6 @@
 cask "clauded" do
-  version "0.2.2"
-  sha256 "e2ef885c6a5805692fecc139e51859798353a18cbcef4753e8517b03657ea994"
+  version "0.2.3"
+  sha256 "2b35980454073ce54c32884ebb26e37abf139ff757cb0c18363b30977886ab7b"
 
   url "https://github.com/mcclowes/clauded/releases/download/v#{version}/Clauded.zip",
       verified: "github.com/mcclowes/clauded/"
